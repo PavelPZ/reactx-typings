@@ -1,0 +1,25 @@
+{
+  "name": "reactx-typings",
+  "version": "1.0.0",
+  "description": "Ambient types for reactx",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/react": "^16.0.27",
+    "@types/react-dom": "^16.0.3",
+    "@types/react-native": "^0.50.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PavelPZ/reactx-typings.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PavelPZ/reactx-typings/issues"
+  },
+  "homepage": "https://github.com/PavelPZ/reactx-typings#readme"
+}
