@@ -73,6 +73,7 @@
     <Content Include=".gitignore" />
     <Content Include="tsconfig.json" />
     <Content Include="README.md" />
+    <None Include="make-symlinks.cmd" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
