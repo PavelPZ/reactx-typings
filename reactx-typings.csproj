@@ -74,6 +74,7 @@
     <Content Include="tsconfig.json" />
     <Content Include="README.md" />
     <None Include="make-symlinks.cmd" />
+    <Content Include="src\typings\mui-last-d.ts.tar" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -89,10 +90,8 @@
   </ItemGroup>
   <ItemGroup>
     <TypeScriptCompile Include="src\typings\material-icons.d.ts" />
-    <TypeScriptCompile Include="src\typings\material-ui-helper.d.ts" />
-    <None Include="src\typings\expo.d.ts_" />
     <TypeScriptCompile Include="src\typings\material-ui.d.ts" />
-    <None Include="src\typings\react-native.d.ts_" />
+    <TypeScriptCompile Include="src\typings\material-ui-helper.d.ts" />
     <TypeScriptCompile Include="src\typings\typings.d.ts" />
   </ItemGroup>
   <ItemGroup>
