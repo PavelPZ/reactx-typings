@@ -90,9 +90,9 @@
   <ItemGroup>
     <TypeScriptCompile Include="src\typings\material-icons.d.ts" />
     <TypeScriptCompile Include="src\typings\material-ui-helper.d.ts" />
-    <TypeScriptCompile Include="src\typings\expo.d.ts" />
+    <None Include="src\typings\expo.d.ts_" />
     <TypeScriptCompile Include="src\typings\material-ui.d.ts" />
-    <TypeScriptCompile Include="src\typings\react-native.d.ts" />
+    <None Include="src\typings\react-native.d.ts_" />
     <TypeScriptCompile Include="src\typings\typings.d.ts" />
   </ItemGroup>
   <ItemGroup>

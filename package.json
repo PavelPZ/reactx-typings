@@ -5,9 +5,10 @@
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
-    "@types/react": "git+https://github.com/PavelPZ/reactx-types-react-patch.git",
-    "@types/react-dom": "^16.0.3",
-    "@types/react-native": "^0.50.7"
+    "@types/react": "PavelPZ/reactx-types-react",
+    "@types/react-native": "PavelPZ/reactx-types-react-native",
+    "@types/expo": "PavelPZ/reactx-types-expo",
+    "@types/react-dom": "^16.0.3"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
